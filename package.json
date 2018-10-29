@@ -95,7 +95,7 @@
     "sass-loader": "^7.1.0",
     "sinon": "^6.3.5",
     "source-map-loader": "^0.2.3",
-    "start-server-and-test": "^1.7.4",
+    "start-server-and-test": "^1.7.6",
     "style-loader": "^0.23.1",
     "stylelint-config-ship-shape": "^0.4.0",
     "stylelint-webpack-plugin": "^0.10.5",
